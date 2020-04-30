@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01b77cdc3217bc0cbaa49762e08a9cc5",
+    "revision": "e0d0eae7e0ebd4f254b9290e31949612",
     "url": "/tushnae.github.io/index.html"
   },
   {
