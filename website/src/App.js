@@ -8,25 +8,13 @@ import Home from "./components/Home";
 
 function App() {
   return (
-
-    // <Router>
-    //   <Route path="/home" component={Home} />
-    // </Router>
-
-
     <div className="App">
-
-
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
-
-        
-
-
-
+{/* 
         <p>
-          Edit <code>src/App.js</code> and  to reload.
-        </p>
+          Edit src/App.js and  to reload.
+        </p> */}
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -36,6 +24,17 @@ function App() {
           Learn React
         </a>
       </header>
+
+
+
+
+      <body className = "App-body">
+
+        <p>Hi</p>
+      </body>
+
+
+
     </div>
   )
 }
