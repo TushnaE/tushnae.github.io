@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tushnae.github.io/static/css/main.8f21a482.chunk.css",
-    "main.js": "/tushnae.github.io/static/js/main.93b1559d.chunk.js",
-    "main.js.map": "/tushnae.github.io/static/js/main.93b1559d.chunk.js.map",
+    "main.js": "/tushnae.github.io/static/js/main.a0662379.chunk.js",
+    "main.js.map": "/tushnae.github.io/static/js/main.a0662379.chunk.js.map",
     "runtime-main.js": "/tushnae.github.io/static/js/runtime-main.3c8f95dc.js",
     "runtime-main.js.map": "/tushnae.github.io/static/js/runtime-main.3c8f95dc.js.map",
     "static/js/2.165bcaf9.chunk.js": "/tushnae.github.io/static/js/2.165bcaf9.chunk.js",
     "static/js/2.165bcaf9.chunk.js.map": "/tushnae.github.io/static/js/2.165bcaf9.chunk.js.map",
     "index.html": "/tushnae.github.io/index.html",
-    "precache-manifest.4c47084e3ef2144be722b3bd17888b05.js": "/tushnae.github.io/precache-manifest.4c47084e3ef2144be722b3bd17888b05.js",
+    "precache-manifest.2be2bfd856d364b38160a026213d6e3a.js": "/tushnae.github.io/precache-manifest.2be2bfd856d364b38160a026213d6e3a.js",
     "service-worker.js": "/tushnae.github.io/service-worker.js",
     "static/css/main.8f21a482.chunk.css.map": "/tushnae.github.io/static/css/main.8f21a482.chunk.css.map",
     "static/js/2.165bcaf9.chunk.js.LICENSE.txt": "/tushnae.github.io/static/js/2.165bcaf9.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3c8f95dc.js",
     "static/js/2.165bcaf9.chunk.js",
     "static/css/main.8f21a482.chunk.css",
-    "static/js/main.93b1559d.chunk.js"
+    "static/js/main.a0662379.chunk.js"
   ]
 }
