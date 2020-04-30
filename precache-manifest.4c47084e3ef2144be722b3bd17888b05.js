@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1006ed75afcc65ebcc8787e243239dca",
+    "revision": "660473d9415c8e5d5c69cf8a170f2c87",
     "url": "/tushnae.github.io/index.html"
   },
   {
-    "revision": "46757857f0d56dc288d7",
+    "revision": "fbb430c9c76826de7c45",
     "url": "/tushnae.github.io/static/css/main.8f21a482.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tushnae.github.io/static/js/2.165bcaf9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46757857f0d56dc288d7",
-    "url": "/tushnae.github.io/static/js/main.9ec7d7e1.chunk.js"
+    "revision": "fbb430c9c76826de7c45",
+    "url": "/tushnae.github.io/static/js/main.93b1559d.chunk.js"
   },
   {
     "revision": "d5a58c367d46542ab9e7",
