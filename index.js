@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './src/index.css';
-import App from './src/App';
+import './index.css';
+import App from './App';
 import * as serviceWorker from './serviceWorker';
 // import registerServiceWorker from './registerServiceWorker';
 
@@ -9,7 +9,7 @@ import * as serviceWorker from './serviceWorker';
         <App />,
         document.getElementById('root')
       );
-    serviceWorker.register();
+
 
 // ReactDOM.render(<App />, document.getElementById('root'));
 // // registerServiceWorker();
