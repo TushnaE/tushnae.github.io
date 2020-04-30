@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tushnae.github.io/static/css/main.8f21a482.chunk.css",
+    "main.js": "/tushnae.github.io/static/js/main.93b1559d.chunk.js",
+    "main.js.map": "/tushnae.github.io/static/js/main.93b1559d.chunk.js.map",
+    "runtime-main.js": "/tushnae.github.io/static/js/runtime-main.3c8f95dc.js",
+    "runtime-main.js.map": "/tushnae.github.io/static/js/runtime-main.3c8f95dc.js.map",
+    "static/js/2.165bcaf9.chunk.js": "/tushnae.github.io/static/js/2.165bcaf9.chunk.js",
+    "static/js/2.165bcaf9.chunk.js.map": "/tushnae.github.io/static/js/2.165bcaf9.chunk.js.map",
+    "index.html": "/tushnae.github.io/index.html",
+    "precache-manifest.4c47084e3ef2144be722b3bd17888b05.js": "/tushnae.github.io/precache-manifest.4c47084e3ef2144be722b3bd17888b05.js",
+    "service-worker.js": "/tushnae.github.io/service-worker.js",
+    "static/css/main.8f21a482.chunk.css.map": "/tushnae.github.io/static/css/main.8f21a482.chunk.css.map",
+    "static/js/2.165bcaf9.chunk.js.LICENSE.txt": "/tushnae.github.io/static/js/2.165bcaf9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tushnae.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c8f95dc.js",
+    "static/js/2.165bcaf9.chunk.js",
+    "static/css/main.8f21a482.chunk.css",
+    "static/js/main.93b1559d.chunk.js"
+  ]
+}
