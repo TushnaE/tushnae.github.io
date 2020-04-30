@@ -2,14 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './src/index.css';
 import App from './src/App';
-// import * as serviceWorker from './serviceWorker';
+import * as serviceWorker from './serviceWorker';
 // import registerServiceWorker from './registerServiceWorker';
 
   ReactDOM.render(
         <App />,
         document.getElementById('root')
       );
-
+    serviceWorker.register();
 
 // ReactDOM.render(<App />, document.getElementById('root'));
 // // registerServiceWorker();
