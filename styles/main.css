@@ -1,4 +1,156 @@
 .pagebacking {
-    background-image: url("../images/background.png");
+    background-image: url("../images/minty.png");
+    /* background-color: black; */
     background-repeat: repeat;
+}
+
+.header {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url("../images/bpic13.png");
+    -webkit-box-shadow: 0px 10px 85px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 10px 85px rgba(0, 0, 0, 0.25);
+    min-height: 100vh;
+    min-width: 99vw;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.navbar {
+  height: 6em;
+  width: 100%;
+  background-color: rgba(14, 19, 18, 0.48);
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  -webkit-box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.5);
+          box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.5);
+}
+
+.topBarTxt{
+  /* font-family: "Oswald"; */
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  color: #e6e6e6;
+  padding: 0px 5px;
+}
+
+.name {
+  /* font-size: 45px;
+  color: white;
+  padding: 0px 50px; */
+
+  font-size: 45px;
+  color: #e6e6e6;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 6px;
+  margin: 0;
+  padding-top: 55px;
+  text-align: center;
+}
+
+.headingtext {
+    font-size: 24px;
+    color: #e6e6e6;
+    /* text-transform: uppercase; */
+    font-family: 'Montserrat', sans-serif;
+    /* letter-spacing: 6px; */
+    margin: 0;
+    padding-top: 25px;
+    text-align: center;
+}
+
+.about {
+    font-family: "Montserrat", sans-serif;
+    width: 48%;
+    float: right;
+    padding-right: 4em;
+    padding-left: 4em;
+    position: relative;
+    right: 7em;
+    padding: 4% 0.3%;
+    vertical-align: -webkit-baseline-middle;
+  }
+
+.about-title {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+#introPrt1 {
+    color: #5e5e5e;
+    font-size: 24px;
+  text-align: justify;
+  padding-right: 1.5em;
+  padding-left: 1.5em;
+}
+
+#introPrt2 {
+  color: #5e5e5e;
+  font-size: 24px;
+  padding-top: 10px;
+  padding-left: 1.5em;
+  text-align: justify;
+  }
+
+.pic_box {
+    background: url('images/tv.png') no-repeat top left transparent;
+    width: 350px;
+    height: 400px;
+    float: left;
+    padding-top: 5%;
+    padding-left: 25%;
+    margin-top: auto;
+    position: relative; 
+    overflow: hidden;
+}
+
+.pic_box img {
+    position: absolute;
+    /* top: 30px; Adjust top position */
+    /* left: 40px; Adjust left position */
+    height: 110%;
+    width: 57%;
+
+    position: absolute;
+    left: 20%;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.newPage {
+    height: 100%;
+    width: 100%;
+    font-family: "Oswald", sans-serif;
+  }
+
+
+
+  .journey {
+    list-style: none;
+    padding: 20px 0 20px;
+    position: relative;
+  }
+
+  .journey-title {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+.timelinebox{
+    height: 400px;
+    width: 100%;
+    background: url("../images/scrapbook_background.jpg");
+    background-position: center;
+    background-repeat: repeat;
+
 }
